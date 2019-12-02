@@ -1,6 +1,29 @@
 # Awesome Privilege Escalation
 A curated list of awesome privilege escalation
 
+Table of Contents
+=================
+
+* [Linux](#linux)
+    * [Escape restricted shells](#escape-restricted-shells)
+    * [SUDO and SUID](#sudo-and-suid)
+    * [Capabilities](#capabilities)
+    * [Tools](#tools)
+        * [Find CVEs](#find-cves)
+    * [Chkrootkit](#chkrootkit)
+    * [NFS](#nfs)
+    * [Presentations](#presentations)
+* [Windows](#windows)
+    * [Hot Potato](#hot-potato)
+    * [Unquoted services with spaces](#unquoted-services-with-spaces)
+    * [Groups.xml](#groupsxml)
+    * [Tools](#tools-1)
+    * [Presentations](#presentations-1)
+* [Linux and Windows](#linux-and-windows)
+* [Docker](#docker)
+    * [Docker socks](#docker-socks)
+* [AWS](#aws)
+
 ## Linux
  - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
  - https://chryzsh.gitbooks.io/pentestbook/privilege_escalation_-_linux.html
