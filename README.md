@@ -25,34 +25,28 @@ Table of Contents
 * [AWS](#aws)
 
 ## Linux
- - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
- - https://chryzsh.gitbooks.io/pentestbook/privilege_escalation_-_linux.html
- - https://www.win.tue.nl/~aeb/linux/hh/hh-12.html
- - http://www.dankalia.com/tutor/01005/0100501004.htm
- - https://payatu.com/guide-linux-privilege-escalation/
- - https://www.pentestpartners.com/security-blog/exploiting-suid-executables/
- - https://medium.com/basic-linux-privilege-escalation/basic-linux-privilege-escalation-966de11f9997
- - https://www.hackingarticles.in/linux-privilege-escalation-via-automated-script/
- - https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/my-5-top-ways-to-escalate-privileges/
- - http://www.admin-magazine.com/Articles/Understanding-Privilege-Escalation
- - https://www.future-processing.pl/blog/privilege-escalation/
- - https://www.contextis.com/en/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library
- - https://hackmag.com/security/reach-the-root/
- - https://guif.re/linuxeop
- - https://percussiveelbow.github.io/linux-privesc/
- - https://www.rebootuser.com/?page_id=1721
- - https://www.rebootuser.com/?p=1623
- - https://www.amanhardikar.com/mindmaps/Practice.html
- - https://myexperiments.io/linux-privilege-escalation.html
- - https://www.sans.org/reading-room/whitepapers/linux/attack-defend-linux-privilege-escalation-techniques-2016-37562
- - https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
- - https://hackingandsecurity.blogspot.com/2016/05/local-linux-enumeration-privilege.html
- - https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt
- - https://www.exploit-db.com/papers/33930
- - https://www.hackingarticles.in/category/privilege-escalation/
- - https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/privesc.md
- - https://pen-testing.sans.org/resources/papers/gcih/attack-defend-linux-privilege-escalation-techniques-2016-152744
- - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
+ - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+ - [Linux elevation of privileges ToC](https://guif.re/linuxeop)
+ - [Pentest Book - Privilege Escalation](https://chryzsh.gitbooks.io/pentestbook/privilege_escalation_-_linux.html)
+ - [A guide to Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation/)
+ - [Enumeration is the Key](https://medium.com/basic-linux-privilege-escalation/basic-linux-privilege-escalation-966de11f9997)
+ - [My 5 Top Ways to Escalate Privileges](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/my-5-top-ways-to-escalate-privileges/)
+ - [Understanding Privilege Escalation](http://www.admin-magazine.com/Articles/Understanding-Privilege-Escalation)
+ - [How privileges work in operating systems?](https://www.future-processing.pl/blog/privilege-escalation/)
+ - [Linux Privilege Escalation via Dynamically Linked Shared Object Library](https://www.contextis.com/en/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library)
+ - [Reach the root! How to gain privileges in Linux?](https://hackmag.com/security/reach-the-root/)
+ - [Linux Privilege Escalation](https://percussiveelbow.github.io/linux-privesc/)
+ - [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)
+ - [PENETRATION TESTING PRACTICE LAB - VULNERABLE APPS / SYSTEMS](https://www.amanhardikar.com/mindmaps/Practice.html)
+ - [Local Linux privilege escalation overview](https://myexperiments.io/linux-privilege-escalation.html)
+ - [Attack and Defend: LinuxPrivilege Escalation Techniques of 2016](https://www.sans.org/reading-room/whitepapers/linux/attack-defend-linux-privilege-escalation-techniques-2016-37562)
+ - [Local Linux Enumeration & Privilege Escalation](https://hackingandsecurity.blogspot.com/2016/05/local-linux-enumeration-privilege.html)
+ - [Back To The Future: Unix Wildcards Gone Wild](https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
+ - [POST CATEGORY : Privilege Escalation](https://www.hackingarticles.in/category/privilege-escalation/)
+ - [Privilege Escalation & Post-Exploitation](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/PrivescPostEx.md)
+ - [Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
+ - [Hackers Hut](https://www.win.tue.nl/~aeb/linux/hh/hh.html)
+ - [Hacking Linux Part I: Privilege Escalation](http://www.dankalia.com/tutor/01005/0100501004.htm)
 
 ### Escape restricted shells
  - https://pen-testing.sans.org/blog/pen-testing/2012/06/06/escaping-restricted-linux-shells
@@ -72,6 +66,7 @@ Table of Contents
  - https://touhidshaikh.com/blog/?cat=21
  - https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/
  - https://touhidshaikh.com/blog/?p=790
+ - https://www.pentestpartners.com/security-blog/exploiting-suid-executables/
 
 ### Capabilities
  - http://blog.sevagas.com/?POSIX-file-capabilities-the-dark-side
