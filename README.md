@@ -51,17 +51,11 @@ old-school Unix hacking technique, that will still work in 2013.
  - [Hacking Linux Part I: Privilege Escalation](http://www.dankalia.com/tutor/01005/0100501004.htm)
 
 ### Escape restricted shells
- - https://pen-testing.sans.org/blog/pen-testing/2012/06/06/escaping-restricted-linux-shells
- - https://pen-testing.sans.org/blog/2012/06/06/escaping-restricted-linux-shells
- - https://chryzsh.gitbooks.io/pentestbook/escaping_restricted_shell.html
- - https://www.exploit-db.com/docs/english/44592-linux-restricted-shell-bypass-guide.pdf
- - https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/
- - https://www.theitcareer.com/site/?p=1750
- - http://tldp.org/LDP/abs/html/restricted-sh.html
- - https://pentest.blog/unexpected-journey-4-escaping-from-restricted-shell-and-gaining-root-access-to-solarwinds-log-event-manager-siem-product/
- - https://linuxshellaccount.blogspot.com/2008/05/restricted-accounts-and-vim-tricks-in.html
- - https://airnesstheman.blogspot.com/2011/05/breaking-out-of-jail-restricted-shell.html
- - http://pentestmonkey.net/blog/rbash-scp
+ - [Escaping Restricted Linux Shells](https://pen-testing.sans.org/blog/pen-testing/2012/06/06/escaping-restricted-linux-shells): Resource for penetration testers to assist them when confronted with a restricted shell.
+ - [Restricted Linux Shell Escaping Techniques](https://fireshellsecurity.team/restricted-linux-shell-escaping-techniques/): The focus of this article is on discussing and summarizing different techniques to escape common Linux restricted shells and also simple recommendations for administrators to protect against it.
+ - [Linux Restricted Shell Bypass](https://www.exploit-db.com/docs/english/44592-linux-restricted-shell-bypass-guide.pdf)
+ - [Escaping from Restricted Shell and Gaining Root Access to SolarWinds Log & Event Manager (SIEM) Product](https://pentest.blog/unexpected-journey-4-escaping-from-restricted-shell-and-gaining-root-access-to-solarwinds-log-event-manager-siem-product/)
+ - [Breaking out of rbash using scp](http://pentestmonkey.net/blog/rbash-scp)
 
 ### SUDO and SUID
  - https://gtfobins.github.io/
