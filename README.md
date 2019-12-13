@@ -58,11 +58,10 @@ old-school Unix hacking technique, that will still work in 2013.
  - [Breaking out of rbash using scp](http://pentestmonkey.net/blog/rbash-scp)
 
 ### SUDO and SUID
- - https://gtfobins.github.io/
- - https://touhidshaikh.com/blog/?cat=21
- - https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/
- - https://touhidshaikh.com/blog/?p=790
- - https://www.pentestpartners.com/security-blog/exploiting-suid-executables/
+ - [GTFOBins](https://gtfobins.github.io/): GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+ - [Abusing SUDO](https://touhidshaikh.com/blog/?p=790): Some of the binary which helps you to escalate privilege using the sudo command.
+ - [Sudo (LD_PRELOAD)](https://touhidshaikh.com/blog/?p=827): Privilege Escalation from an LD_PRELOAD environment variable. 
+ - [How I got root with Sudo](https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/)
 
 ### Capabilities
  - http://blog.sevagas.com/?POSIX-file-capabilities-the-dark-side
