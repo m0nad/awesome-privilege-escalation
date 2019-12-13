@@ -47,8 +47,11 @@ old-school Unix hacking technique, that will still work in 2013.
  - [POST CATEGORY : Privilege Escalation](https://www.hackingarticles.in/category/privilege-escalation/): Privilege escalation post category in Raj Chandel's Blog.
  - [Privilege Escalation & Post-Exploitation](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/PrivescPostEx.md)
  - [Linux - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md)
+ - [Privilege escalation: Linux](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux)
+ - [Penetration-Testing-Grimoire/Privilege Escalation/linux.md](https://github.com/weaknetlabs/Penetration-Testing-Grimoire/blob/master/Privilege%20Escalation/linux.md)
  - [Hackers Hut](https://www.win.tue.nl/~aeb/linux/hh/hh.html): Some random hacking hints, mainly from a Linux point of view.
  - [Hacking Linux Part I: Privilege Escalation](http://www.dankalia.com/tutor/01005/0100501004.htm)
+ 
 
 ### Escape restricted shells
  - [Escaping Restricted Linux Shells](https://pen-testing.sans.org/blog/pen-testing/2012/06/06/escaping-restricted-linux-shells): Resource for penetration testers to assist them when confronted with a restricted shell.
@@ -62,18 +65,14 @@ old-school Unix hacking technique, that will still work in 2013.
  - [Abusing SUDO](https://touhidshaikh.com/blog/?p=790): Some of the binary which helps you to escalate privilege using the sudo command.
  - [Sudo (LD_PRELOAD)](https://touhidshaikh.com/blog/?p=827): Privilege Escalation from an LD_PRELOAD environment variable. 
  - [How I got root with Sudo](https://www.securusglobal.com/community/2014/03/17/how-i-got-root-with-sudo/)
+ - [Gaining a Root shell using MySQL User Defined Functions and SETUID Binaries](https://infamoussyn.wordpress.com/2014/07/11/gaining-a-root-shell-using-mysql-user-defined-functions-and-setuid-binaries/): How a MySQL User Defined Function (UDF) and a SETUID binary can be used to elevate user privilege to a root shell.
 
 ### Capabilities
- - http://blog.sevagas.com/?POSIX-file-capabilities-the-dark-side
- - http://blog.sevagas.com/IMG/pdf/exploiting_capabilities_the_dark_side.pdf
- - https://www.insecure.ws/linux/getcap_setcap.html
- - https://wiki.archlinux.org/index.php/Capabilities
- - https://www.redpill-linpro.com/sysadvent/2016/12/06/spicing-up-your-access.html
- - https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/
- - https://infamoussyn.wordpress.com/2014/07/11/gaining-a-root-shell-using-mysql-user-defined-functions-and-setuid-binaries/
- - https://dl.packetstormsecurity.net/papers/attack/exploiting_capabilities_the_dark_side.pdf
- - https://github.com/weaknetlabs/Penetration-Testing-Grimoire/blob/master/Privilege%20Escalation/linux.md
- - https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux
+ - [Exploiting capabilities](http://blog.sevagas.com/IMG/pdf/exploiting_capabilities_the_dark_side.pdf): Parcel root power,  the dark side of capabilities
+ - [getcap, setcap and file capabilities](https://www.insecure.ws/linux/getcap_setcap.html)
+ - [Capabilities](https://wiki.archlinux.org/index.php/Capabilities)
+ - [Spicing up your own access with capabilities](https://www.redpill-linpro.com/sysadvent/2016/12/06/spicing-up-your-access.html)
+ - [An Interesting Privilege Escalation vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
 
 ### Tools
  - https://github.com/rebootuser/LinEnum
