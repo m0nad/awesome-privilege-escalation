@@ -1,8 +1,7 @@
 # Awesome Privilege Escalation
 A curated list of awesome privilege escalation
 
-Table of Contents
-=================
+## Table of Contents
 
 * [Linux](#linux)
     * [Escape restricted shells](#escape-restricted-shells)
