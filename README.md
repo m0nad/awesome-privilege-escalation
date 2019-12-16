@@ -175,6 +175,7 @@ exploits.
 
 ## Linux and Windows
  - https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation
+ - https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/
 
 
 ## Docker
