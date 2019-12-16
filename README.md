@@ -131,6 +131,8 @@ exploits.
  - https://www.exploit-db.com/docs/46131
  - https://lolbas-project.github.io/#
  - https://github.com/frizb/Windows-Privilege-Escalation
+ - https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/
+ - https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/
 
 ### Hot Potato
  - https://foxglovesecurity.com/2016/01/16/hot-potato/
