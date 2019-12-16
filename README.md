@@ -77,6 +77,7 @@ old-school Unix hacking technique, that will still work in 2013.
 
 ### Tools
  - [LinEnum](https://github.com/rebootuser/LinEnum)
+ - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
  - [LES](https://github.com/mzet-/linux-exploit-suggester): LES: Linux privilege escalation auditing tool
  - [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester): Linux Exploit Suggester; based on operating system release number.
  - [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2): Next-generation exploit suggester based on Linux_Exploit_Suggester
