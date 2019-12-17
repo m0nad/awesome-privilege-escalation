@@ -113,9 +113,9 @@ exploits.
  - https://touhidshaikh.com/blog/?p=788
 
 ### Presentations
- - https://www.youtube.com/watch?v=oYHAi0cgur4
- - https://www.irongeek.com/i.php?page=videos/bsidesaugusta2016/its-too-funky-in-here04-linux-privilege-escalation-for-fun-profit-and-all-around-mischief-jake-williams
- - https://www.youtube.com/watch?v=yXe4X-AIbps
+ - [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4): Methodology for performing various privilege escalation techniques against Linux-based systems.
+ - [Linux privilege escalation for fun, profit, and all around mischief](https://www.irongeek.com/i.php?page=videos/bsidesaugusta2016/its-too-funky-in-here04-linux-privilege-escalation-for-fun-profit-and-all-around-mischief-jake-williams): Examine opportunities for privilege escalation that can vault you from zero to hero in a few easy steps.
+ - [Privilege Escalation FTW](https://www.youtube.com/watch?v=yXe4X-AIbps): Demonstrate various privilege escalation techniques that are possible primarily due to misconfigurations. 
 
 ## Windows
  - https://www.fuzzysecurity.com/tutorials/16.html
