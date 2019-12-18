@@ -118,21 +118,18 @@ exploits.
  - [Privilege Escalation FTW](https://www.youtube.com/watch?v=yXe4X-AIbps): Demonstrate various privilege escalation techniques that are possible primarily due to misconfigurations. 
 
 ## Windows
- - https://www.fuzzysecurity.com/tutorials/16.html
- - https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html
- - https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
- - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
- - https://lolbas-project.github.io/
- - https://guif.re/windowseop
- - https://www.youtube.com/watch?v=DlJyKgfkoKQ
- - https://pt.slideshare.net/jakx_/level-up-practical-windows-privilege-escalation
- - https://github.com/chryzsh/awesome-windows-security
- - https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows
- - https://www.exploit-db.com/docs/46131
- - https://lolbas-project.github.io/#
- - https://github.com/frizb/Windows-Privilege-Escalation
- - https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/
- - https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/
+ - [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
+ - [Privilege Escalation Windows](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
+ - [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+ - [Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
+ - [LOLBAS](https://lolbas-project.github.io/): Living Off The Land Binaries and Scripts (and also Libraries)
+ - [Windows elevation of privileges ToC](https://guif.re/windowseop)
+ - [awesome-windows-security](https://github.com/chryzsh/awesome-windows-security#-privilege-escalation)
+ - [Privilege escalation: Windows](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows
+ - [Windows Privilege Escalations](https://www.exploit-db.com/docs/46131)
+ - [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation): Step-by-step windows privlege escalation methodology.
+ - [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/): There are also various other (local) exploits that can be used to also escalate privileges.
+ - [Windows Post Gather Modules](https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/): Metasploit offers a number of post exploitation modules that allow for further information gathering on your target network.
 
 ### Hot Potato
  - https://foxglovesecurity.com/2016/01/16/hot-potato/
@@ -171,6 +168,9 @@ exploits.
  - https://www.youtube.com/watch?v=G9yn3qNq7Vw
  - https://www.youtube.com/watch?v=jfZ8FKTFNTE
  - https://www.youtube.com/watch?v=RORaqh1DIco
+ - https://www.youtube.com/watch?v=DlJyKgfkoKQ
+ - https://www.youtube.com/watch?v=PC_iMqiuIRQ
+ - https://pt.slideshare.net/jakx_/level-up-practical-windows-privilege-escalation
 
 
 ## Linux and Windows
