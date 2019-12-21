@@ -125,71 +125,72 @@ exploits.
  - [LOLBAS](https://lolbas-project.github.io/): Living Off The Land Binaries and Scripts (and also Libraries)
  - [Windows elevation of privileges ToC](https://guif.re/windowseop)
  - [awesome-windows-security](https://github.com/chryzsh/awesome-windows-security#-privilege-escalation)
- - [Privilege escalation: Windows](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows
+ - [Privilege escalation: Windows](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows)
  - [Windows Privilege Escalations](https://www.exploit-db.com/docs/46131)
  - [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation): Step-by-step windows privlege escalation methodology.
  - [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/): There are also various other (local) exploits that can be used to also escalate privileges.
  - [Windows Post Gather Modules](https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/): Metasploit offers a number of post exploitation modules that allow for further information gathering on your target network.
 
 ### Hot Potato
- - https://foxglovesecurity.com/2016/01/16/hot-potato/
- - https://pentestlab.blog/2017/04/13/hot-potato/
- - https://securityonline.info/hot-potato-windows-privilege-escalation-metasploit-powershellhot-potato-windows-privilege-escalation/
+ - [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/): Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012 … and a new network attack.
+ - [Hot Potato](https://pentestlab.blog/2017/04/13/hot-potato/): Hot potato is the code name of a Windows privilege escalation technique that was discovered by Stephen Breen. This technique is actually a combination of two known windows issues  like NBNS spoofing and NTLM relay with the implementation of a fake WPAD proxy server which is running locally on the target host.
+ - [Hot Potato](https://securityonline.info/hot-potato-windows-privilege-escalation-metasploit-powershellhot-potato-windows-privilege-escalation/): Windows 7, 8, 10, Server 2008, Server 2012 Privilege Escalation in Metasploit & PowerShell.
 
 ### Unquoted services with spaces
- - https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae
- - https://pentestlab.blog/2017/03/09/unquoted-service-path/
- - https://www.commonexploits.com/unquoted-service-paths/
- - https://hausec.com/2018/10/05/windows-privilege-escalation-via-unquoted-service-paths/
- - https://www.gracefulsecurity.com/privesc-unquoted-service-path/
- - https://trustfoundry.net/practical-guide-to-exploiting-the-unquoted-service-path-vulnerability-in-windows/
- - https://securityboulevard.com/2018/04/windows-privilege-escalation-unquoted-services/
- - https://www.ethicalhacker.net/community/windows-privilege-escalation-unquoted-services/
+ - [Windows Privilege Escalation — Part 1 (Unquoted Service Path)](https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae)
+ - [Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
+ - [UNQUOTED SERVICE PATHS](https://www.commonexploits.com/unquoted-service-paths/)
+ - [Windows Privilege Escalation via Unquoted Service Paths](https://hausec.com/2018/10/05/windows-privilege-escalation-via-unquoted-service-paths/)
+ - [PrivEsc: Unquoted Service Path](https://www.gracefulsecurity.com/privesc-unquoted-service-path/)
+ - [Practical Guide to exploiting the unquoted service path vulnerability in Windows](https://trustfoundry.net/practical-guide-to-exploiting-the-unquoted-service-path-vulnerability-in-windows/)
+ - [Windows Privilege Escalation – Unquoted Services](https://securityboulevard.com/2018/04/windows-privilege-escalation-unquoted-services/)
+ - [Windows Privilege Escalation – Unquoted Services](https://www.ethicalhacker.net/community/windows-privilege-escalation-unquoted-services/)
 
 ### Groups.xml
- - https://tools.kali.org/password-attacks/gpp-decrypt
- - https://adsecurity.org/?p=2288
+ - [gpp-decrypt Package Description](https://tools.kali.org/password-attacks/gpp-decrypt): A simple ruby script that will decrypt a given GPP encrypted string.
+ - [Finding Passwords in SYSVOL & Exploiting Group Policy Preferences](https://adsecurity.org/?p=2288)
 
 ### Tools
- - https://github.com/411Hall/JAWS
- - https://github.com/rasta-mouse/Sherlock/
- - https://github.com/PowerShellMafia/PowerSploit
- - https://github.com/foxglovesec/Potato
- - https://github.com/foxglovesec/RottenPotato
- - https://github.com/Kevin-Robertson/Tater
- - https://github.com/Arvanaghi/SessionGopher
- - https://github.com/pentestmonkey/windows-privesc-check
- - https://github.com/rootm0s/WinPwnage  
- - https://github.com/absolomb/WindowsEnum
- - https://github.com/ohpe/juicy-potato
+ - [JAWS - Just Another Windows (Enum) Script](https://github.com/411Hall/JAWS): JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.
+ - [Sherlock](https://github.com/rasta-mouse/Sherlock/): PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities. (Deprecated)
+ - [Watson](https://github.com/rasta-mouse/Watson): Watson is a .NET tool designed to enumerate missing KBs and suggest exploits for Privilege Escalation vulnerabilities.
+ - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit): PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+ - [Potato](https://github.com/foxglovesec/Potato): Potato Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012.
+ - [RottenPotato](https://github.com/foxglovesec/RottenPotato): RottenPotato local privilege escalation from service account to SYSTEM. (No longer maintained)
+ - [RottenPotatoNG](https://github.com/breenmachine/RottenPotatoNG): New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
+ - [Tater](https://github.com/Kevin-Robertson/Tater): Tater is a PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit.
+ - [SessionGopher](https://github.com/Arvanaghi/SessionGopher): SessionGopher is a PowerShell tool that finds and decrypts saved session information for remote access tools.
+ - [windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check): Standalone executable that runs on Windows systems. It tries to find misconfigurations that could allow local unprivileged users to escalate privileges to other users or to access local apps (e.g. databases).
+ - [WinPwnage](https://github.com/rootm0s/WinPwnage): UAC bypass, Elevate, Persistence and Execution methods. The goal of this repo is to study the Windows penetration techniques.
+ - [WindowsEnum](https://github.com/absolomb/WindowsEnum): A Powershell Privilege Escalation Enumeration Script.
+ - [juicy-potato](https://github.com/ohpe/juicy-potato): A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
 
 ### Presentations
- - https://www.youtube.com/watch?v=bAnohAiAQ7U
- - https://www.youtube.com/watch?v=G9yn3qNq7Vw
- - https://www.youtube.com/watch?v=jfZ8FKTFNTE
- - https://www.youtube.com/watch?v=RORaqh1DIco
- - https://www.youtube.com/watch?v=DlJyKgfkoKQ
- - https://www.youtube.com/watch?v=PC_iMqiuIRQ
- - https://pt.slideshare.net/jakx_/level-up-practical-windows-privilege-escalation
+ - [SANS Webcast: Pen Testing with PowerShell - Local Privilege Escalation Techniques](https://www.youtube.com/watch?v=bAnohAiAQ7U)
+ - [Windows Privilege Escalation Unquoted Service - Part 1](https://www.youtube.com/watch?v=G9yn3qNq7Vw)
+ - [Windows Privilege Escalation Unquoted Service - Part 2](https://www.youtube.com/watch?v=jfZ8FKTFNTE)
+ - [Windows Privilege Escalation Unquoted Service - Part 3](https://www.youtube.com/watch?v=RORaqh1DIco)
+ - [Windows Privilege Escalation Techniques (Local) - Tradecraft Security Weekly #2](https://www.youtube.com/watch?v=DlJyKgfkoKQ)
+ - [Level Up! Practical Windows Privilege Escalation - Andrew Smith](https://www.youtube.com/watch?v=PC_iMqiuIRQ)
+ - [Level Up! - Practical Windows Privilege Escalation (Presentation Slides)](https://pt.slideshare.net/jakx_/level-up-practical-windows-privilege-escalation)
 
 
 ## Linux and Windows
- - https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation
- - https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/
+ - [Awesome-Hacking-Resources (Privilege escalation section)](https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation): A collection of hacking / penetration testing resources to make you better!
+ - [Metasploit Local Exploit Suggester: Do Less, Get More!](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
 
 
 ## Docker
- - https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c
- - https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/
- - https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/
- - https://pt.slideshare.net/BorgHan/hacking-docker-the-easy-way
- - https://blog.secureideas.com/2018/05/escaping-the-whale-things-you-probably-shouldnt-do-with-docker-part-1.html
+ - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
+ - [Hack Allows Escape of Play-with-Docker Containers](https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/)
+ - [Escaping Docker container using waitid() – CVE-2017-5123](https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/)
+ - [Hacking Docker the Easy way](https://pt.slideshare.net/BorgHan/hacking-docker-the-easy-way)
+ - [Escaping the Whale: Things you probably shouldn’t do with Docker (Part 1)](https://blog.secureideas.com/2018/05/escaping-the-whale-things-you-probably-shouldnt-do-with-docker-part-1.html)
 
 ### Docker socks
- - https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html
- - https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c
- - https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/
- - https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/
+ - [Don't expose the Docker socket (not even to a container)](https://web.archive.org/web/20190623234615/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+ - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
+ - [Dirty COW - (CVE-2016-5195) - Docker Container Escape](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
 
 ## AWS
- - https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation
+ - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
