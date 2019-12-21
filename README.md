@@ -98,19 +98,19 @@ exploits.
  - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 
 #### Find CVEs
- - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu
+ - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu.
  - [active-cve-check](https://github.com/davbo/active-cve-check): Checks a list of packages against the "active" (not yet patched) CVE's as listed in the Ubuntu CVE Tracker.
- - [cve-check-tool](https://github.com/clearlinux/cve-check-tool): Original Automated CVE Checking Tool
- - [Arch-Audit](https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/): A tool to check vulnerable packages in Arch Linux
+ - [cve-check-tool](https://github.com/clearlinux/cve-check-tool): Original Automated CVE Checking Tool.
+ - [Arch-Audit](https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/): A tool to check vulnerable packages in Arch Linux.
 
 ### Chkrootkit
- - https://lepetithacker.wordpress.com/2017/04/30/local-root-exploit-in-chkrootkit/
+ - [Local root exploit in Chkrootkit](https://lepetithacker.wordpress.com/2017/04/30/local-root-exploit-in-chkrootkit/): Security researchers have found an local exploit for Chkrootkit 0.49 who allow to a simple user to make root’s commands.
 
 ### NFS
- - https://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/
- - https://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson4/index.html
- - https://blog.hackersonlineclub.com/2018/07/beroot-post-exploitation-tool-to-check.html
- - https://touhidshaikh.com/blog/?p=788
+ - [Linux Privilege Escalation using Misconfigured NFS](https://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/): How to exploit a misconfigured NFS share to gain root access to a remote host machine.
+ - [Exploiting a Mis-Configured NFS Share](https://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson4/index.html)
+ - [BeRoot](https://blog.hackersonlineclub.com/2018/07/beroot-post-exploitation-tool-to-check.html): A Post Exploitation Tool To Check Common Misconfigurations For Windows Linux And Mac OS.
+ - [NFS weak permissions](https://touhidshaikh.com/blog/?p=788)
 
 ### Presentations
  - [Linux Privilege Escalation - Tradecraft Security Weekly #22](https://www.youtube.com/watch?v=oYHAi0cgur4): Methodology for performing various privilege escalation techniques against Linux-based systems.
