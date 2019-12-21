@@ -98,10 +98,10 @@ exploits.
  - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
 
 #### Find CVEs
- - https://github.com/lwindolf/lpvs
- - https://github.com/davbo/active-cve-check
- - https://github.com/clearlinux/cve-check-tool
- - https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/
+ - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu
+ - [active-cve-check](https://github.com/davbo/active-cve-check): Checks a list of packages against the "active" (not yet patched) CVE's as listed in the Ubuntu CVE Tracker.
+ - [cve-check-tool](https://github.com/clearlinux/cve-check-tool): Original Automated CVE Checking Tool
+ - [Arch-Audit](https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/): A tool to check vulnerable packages in Arch Linux
 
 ### Chkrootkit
  - https://lepetithacker.wordpress.com/2017/04/30/local-root-exploit-in-chkrootkit/
