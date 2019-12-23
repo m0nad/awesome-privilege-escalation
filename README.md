@@ -13,7 +13,7 @@ A curated list of awesome privilege escalation
     * [NFS](#nfs)
     * [Presentations](#presentations)
 * [Windows](#windows)
-    * [Hot Potato](#hot-potato)
+    * [Potato](#potato)
     * [Unquoted services with spaces](#unquoted-services-with-spaces)
     * [Groups.xml](#groupsxml)
     * [Tools](#tools-1)
@@ -130,11 +130,16 @@ exploits.
  - [Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation): Step-by-step windows privlege escalation methodology.
  - [Privilege Escalation](https://www.offensive-security.com/metasploit-unleashed/privilege-escalation/): There are also various other (local) exploits that can be used to also escalate privileges.
  - [Windows Post Gather Modules](https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/): Metasploit offers a number of post exploitation modules that allow for further information gathering on your target network.
+ - [Windows Privilege Escalation](http://www.bhafsec.com/wiki/index.php/Windows_Privilege_Escalation)
+ - [Windows Priv Esc](https://www.sock-raw.org/wiki/doku.php/windows_priv_esc)
+ - [OSCP Windows PrivEsc - Part 1](https://butter0verflow.github.io/oscp/OSCP-WindowsPrivEsc-Part1/)
 
-### Hot Potato
+### Potato
  - [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/): Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012 … and a new network attack.
  - [Hot Potato](https://pentestlab.blog/2017/04/13/hot-potato/): Hot potato is the code name of a Windows privilege escalation technique that was discovered by Stephen Breen. This technique is actually a combination of two known windows issues  like NBNS spoofing and NTLM relay with the implementation of a fake WPAD proxy server which is running locally on the target host.
  - [Hot Potato](https://securityonline.info/hot-potato-windows-privilege-escalation-metasploit-powershellhot-potato-windows-privilege-escalation/): Windows 7, 8, 10, Server 2008, Server 2012 Privilege Escalation in Metasploit & PowerShell.
+ - [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
+ - [Juicy Potato (abusing the golden privileges)](https://ohpe.it/juicy-potato/)
 
 ### Unquoted services with spaces
  - [Windows Privilege Escalation — Part 1 (Unquoted Service Path)](https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae)
@@ -178,7 +183,8 @@ exploits.
 ## Linux and Windows
  - [Awesome-Hacking-Resources (Privilege escalation section)](https://github.com/vitalysim/Awesome-Hacking-Resources#privilege-escalation): A collection of hacking / penetration testing resources to make you better!
  - [Metasploit Local Exploit Suggester: Do Less, Get More!](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
-
+ - [Recipe for Root](https://recipeforroot.com/): Your Cookbook for Privilege Escalation
+ - [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
 ## Docker
  - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
