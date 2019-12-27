@@ -187,6 +187,7 @@ exploits.
  - [Metasploit Local Exploit Suggester: Do Less, Get More!](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
  - [Recipe for Root](https://recipeforroot.com/): Your Cookbook for Privilege Escalation
  - [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
+ - [Privilege Escalation](https://pentestlab.blog/category/privilege-escalation/): Privilege Escalation category by pentestlab.blog
 
 ## Docker
  - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
