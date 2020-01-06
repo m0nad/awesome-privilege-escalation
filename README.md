@@ -110,7 +110,6 @@ exploits.
 ### NFS
  - [Linux Privilege Escalation using Misconfigured NFS](https://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/): How to exploit a misconfigured NFS share to gain root access to a remote host machine.
  - [Exploiting a Mis-Configured NFS Share](https://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson4/index.html)
- - [BeRoot](https://blog.hackersonlineclub.com/2018/07/beroot-post-exploitation-tool-to-check.html): A Post Exploitation Tool To Check Common Misconfigurations For Windows Linux And Mac OS.
  - [NFS weak permissions](https://touhidshaikh.com/blog/?p=788)
 
 ### Presentations
