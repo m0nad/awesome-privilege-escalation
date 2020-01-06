@@ -75,7 +75,7 @@ old-school Unix hacking technique, that will still work in 2013.
  - [An Interesting Privilege Escalation vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
 
 ### Tools
- - [LinEnum](https://github.com/rebootuser/LinEnum)
+ - [LinEnum](https://github.com/rebootuser/LinEnum): Scripted local Linux enumeration & privilege escalation checks
  - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
  - [LES](https://github.com/mzet-/linux-exploit-suggester): LES: Linux privilege escalation auditing tool
  - [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester): Linux Exploit Suggester; based on operating system release number.
