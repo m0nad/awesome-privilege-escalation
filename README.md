@@ -20,7 +20,7 @@ A curated list of awesome privilege escalation
     * [Presentations](#presentations-1)
 * [Linux and Windows](#linux-and-windows)
 * [Docker](#docker)
-    * [Docker socks](#docker-socks)
+    * [Docker escape](#docker-escape)
 * [AWS](#aws)
 
 ## Linux
