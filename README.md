@@ -94,6 +94,12 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack): Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.
  - [uptux](https://github.com/initstring/uptux): Specialized privilege escalation checks for Linux systems.
 
+#### Find CVEs
+ - [active-cve-check](https://github.com/davbo/active-cve-check): Checks a list of packages against the "active" (not yet patched) CVE's as listed in the Ubuntu CVE Tracker.
+ - [Arch-Audit](https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/): A tool to check vulnerable packages in Arch Linux.
+ - [cve-check-tool](https://github.com/clearlinux/cve-check-tool): Original Automated CVE Checking Tool.
+ - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu.
+
 ### Chkrootkit
  - [Local root exploit in Chkrootkit](https://lepetithacker.wordpress.com/2017/04/30/local-root-exploit-in-chkrootkit/): Security researchers have found an local exploit for Chkrootkit 0.49 who allow to a simple user to make root’s commands.
 
