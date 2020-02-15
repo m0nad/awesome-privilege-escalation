@@ -21,7 +21,9 @@ A curated list of awesome privilege escalation
 * [Linux and Windows](#linux-and-windows)
 * [Docker](#docker)
     * [Docker escape](#docker-escape)
-* [AWS](#aws)
+* [Cloud](#cloud)
+   * [AWS](#aws)
+   * [GCP](#gcp)
 
 ## Linux
  - [A guide to Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation/)
@@ -195,5 +197,9 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
  - [Hack Allows Escape of Play-with-Docker Containers](https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/)
 
-## AWS
+## Cloud
+### AWS
  - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
+
+### GCP
+ - [Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/): Very deep-dive into manual post-exploitation tactics and techniques for GCP.
