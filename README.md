@@ -70,7 +70,7 @@ A curated list of awesome privilege escalation
 ### Capabilities
  - [An Interesting Privilege Escalation vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
  - [Capabilities](https://wiki.archlinux.org/index.php/Capabilities)
- - [Exploiting capabilities](http://blog.sevagas.com/IMG/pdf/exploiting_capabilities_the_dark_side.pdf): Parcel root power,  the dark side of capabilities
+ - [Exploiting capabilities](http://blog.sevagas.com/IMG/pdf/exploiting_capabilities_the_dark_side.pdf): Parcel root power, the dark side of capabilities
  - [getcap, setcap and file capabilities](https://www.insecure.ws/linux/getcap_setcap.html)
  - [Spicing up your own access with capabilities](https://www.redpill-linpro.com/sysadvent/2016/12/06/spicing-up-your-access.html)
 
@@ -149,6 +149,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Hot Potato](https://securityonline.info/hot-potato-windows-privilege-escalation-metasploit-powershellhot-potato-windows-privilege-escalation/): Windows 7, 8, 10, Server 2008, Server 2012 Privilege Escalation in Metasploit & PowerShell.
  - [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/): Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012 … and a new network attack.
  - [Juicy Potato (abusing the golden privileges)](https://ohpe.it/juicy-potato/)
+ - [No more JuicyPotato? Old story, welcome RoguePotato!](https://decoder.cloud/2020/05/11/no-more-juicypotato-old-story-welcome-roguepotato/): by decoder_it and splinter_code/antonioCoco
  - [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 
 ### Unquoted services with spaces
@@ -170,6 +171,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [juicy-potato](https://github.com/ohpe/juicy-potato): A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
  - [Potato](https://github.com/foxglovesec/Potato): Potato Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012.
  - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit): PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
+ - [RoguePotato](https://github.com/antonioCoco/RoguePotato): Another Windows Local Privilege Escalation from Service Account to System by splinter_code/antonioCoco
  - [RottenPotato](https://github.com/foxglovesec/RottenPotato): RottenPotato local privilege escalation from service account to SYSTEM. (No longer maintained)
  - [RottenPotatoNG](https://github.com/breenmachine/RottenPotatoNG): New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
  - [SessionGopher](https://github.com/Arvanaghi/SessionGopher): SessionGopher is a PowerShell tool that finds and decrypts saved session information for remote access tools.
