@@ -226,3 +226,4 @@ is intended to be executed locally on a Linux box to enumerate basic system info
 
 ### GCP
  - [Tutorial on privilege escalation and post exploitation tactics in Google Cloud Platform environments](https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/): Very deep-dive into manual post-exploitation tactics and techniques for GCP.
+ - [GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation): IAM Privilege Escalation in GCP by RhinoSecurity.
