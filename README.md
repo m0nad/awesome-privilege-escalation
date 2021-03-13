@@ -161,7 +161,6 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
  - [UNQUOTED SERVICE PATHS](https://www.commonexploits.com/unquoted-service-paths/)
  - [Windows Privilege Escalation — Part 1 (Unquoted Service Path)](https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae)
- - [Windows Privilege Escalation – Unquoted Services](https://securityboulevard.com/2018/04/windows-privilege-escalation-unquoted-services/)
  - [Windows Privilege Escalation – Unquoted Services](https://www.ethicalhacker.net/community/windows-privilege-escalation-unquoted-services/)
  - [Windows Privilege Escalation via Unquoted Service Paths](https://hausec.com/2018/10/05/windows-privilege-escalation-via-unquoted-service-paths/)
 
