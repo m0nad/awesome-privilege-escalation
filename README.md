@@ -222,6 +222,8 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [CDK](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency.
  - [Deepce](https://github.com/stealthcopter/deepce): Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
  - [Dokcer-escape-tool](https://github.com/PercussiveElbow/docker-escape-tool): This tool will help identify if you're in a Docker container and try some quick escape techniques to help assess the security of your containers.
+ - [PrivilegedDockerEscape](https://github.com/0x03f3/PrivilegedDockerEscape): A bash script to create an interactive shell from a privileged docker container to the container host
+
 
 ## Cloud
 ### AWS
