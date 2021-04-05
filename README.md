@@ -219,6 +219,9 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
  - [Hack Allows Escape of Play-with-Docker Containers](https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/)
 
+### Tools
+ - [Deepce](https://github.com/stealthcopter/deepce): Docker Enumeration, Escalation of Privileges and Container Escapes (DEEPCE)
+
 ## Cloud
 ### AWS
  - [AWS-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation): A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs.
