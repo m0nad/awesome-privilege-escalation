@@ -212,6 +212,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
 ## Docker
  - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
  - [Dirty COW - (CVE-2016-5195) - Docker Container Escape](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
+ - [Docker Breakout](https://book.hacktricks.xyz/linux-unix/privilege-escalation/docker-breakout): by HackTricks
  - [Docker security checklist](https://github.com/PercussiveElbow/docker-security-checklist)
  - [Don't expose the Docker socket (not even to a container)](https://web.archive.org/web/20190623234615/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
  - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
