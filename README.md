@@ -215,6 +215,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Docker Breakout](https://book.hacktricks.xyz/linux-unix/privilege-escalation/docker-breakout): by HackTricks
  - [Docker security checklist](https://github.com/PercussiveElbow/docker-security-checklist)
  - [Don't expose the Docker socket (not even to a container)](https://web.archive.org/web/20190623234615/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+ - [Escaping Docker Privileged Containers](https://betterprogramming.pub/escaping-docker-privileged-containers-a7ae7d17f5a1): by Vickie Li
  - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
  - [Escaping Docker container using waitid() – CVE-2017-5123](https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/)
  - [Escaping the Whale: Things you probably shouldn’t do with Docker (Part 1)](https://blog.secureideas.com/2018/05/escaping-the-whale-things-you-probably-shouldnt-do-with-docker-part-1.html)
