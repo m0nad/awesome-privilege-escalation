@@ -220,6 +220,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Escaping the Whale: Things you probably shouldn’t do with Docker (Part 1)](https://blog.secureideas.com/2018/05/escaping-the-whale-things-you-probably-shouldnt-do-with-docker-part-1.html)
  - [Hack Allows Escape of Play-with-Docker Containers](https://threatpost.com/hack-allows-escape-of-play-with-docker-containers/140831/)
  - [Hacking Docker the Easy way](https://pt.slideshare.net/BorgHan/hacking-docker-the-easy-way)
+ - [Understanding Docker container escapes](https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/): by Trail of Bits
 
 ### Tools
  - [CDK](https://github.com/cdk-team/CDK): CDK is an open-sourced container penetration toolkit, offering stable exploitation in different slimmed containers without any OS dependency.
