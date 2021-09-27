@@ -22,6 +22,7 @@ A curated list of awesome privilege escalation
 * [Linux and Windows](#linux-and-windows)
 * [Docker](#docker)
     * [Tools](#tools-2)
+    * [Presentations](#presentations)
 * [Cloud](#cloud)
    * [AWS](#aws)
    * [GCP](#gcp)
@@ -229,6 +230,8 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Dokcer-escape-tool](https://github.com/PercussiveElbow/docker-escape-tool): This tool will help identify if you're in a Docker container and try some quick escape techniques to help assess the security of your containers.
  - [PrivilegedDockerEscape](https://github.com/0x03f3/PrivilegedDockerEscape): A bash script to create an interactive shell from a privileged docker container to the container host
 
+### Presentations
+ - [Introduction to Docker Hacking](https://www.youtube.com/watch?v=XiLfEU9wK-w): by NahamSec
 
 ## Cloud
 ### AWS
