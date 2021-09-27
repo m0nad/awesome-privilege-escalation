@@ -211,6 +211,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
 
 ## Docker
+ - [Bypassing Docker Authz Plugin and Using Docker-Containerd for Privesc](https://staaldraad.github.io/post/2019-07-11-bypass-docker-plugin-with-containerd/): by Staaldraad.
  - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
  - [Dirty COW - (CVE-2016-5195) - Docker Container Escape](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
  - [Docker Breakout](https://book.hacktricks.xyz/linux-unix/privilege-escalation/docker-breakout): by HackTricks
