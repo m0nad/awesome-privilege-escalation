@@ -22,7 +22,7 @@ A curated list of awesome privilege escalation
 * [Linux and Windows](#linux-and-windows)
 * [Docker](#docker)
     * [Tools](#tools-2)
-    * [Presentations](#presentations)
+    * [Presentations](#presentations-2)
 * [Cloud](#cloud)
    * [AWS](#aws)
    * [GCP](#gcp)
