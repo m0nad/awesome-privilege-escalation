@@ -156,6 +156,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Hot Potato – Windows Privilege Escalation](https://foxglovesecurity.com/2016/01/16/hot-potato/): Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012 … and a new network attack.
  - [Juicy Potato (abusing the golden privileges)](https://ohpe.it/juicy-potato/)
  - [No more JuicyPotato? Old story, welcome RoguePotato!](https://decoder.cloud/2020/05/11/no-more-juicypotato-old-story-welcome-roguepotato/): by decoder_it and splinter_code/antonioCoco
+ - [RemotePotato0](https://github.com/antonioCoco/RemotePotato0): Just another "Won't Fix" Windows Privilege Escalation from User to Domain Admin.
  - [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 
 ### Unquoted services with spaces
