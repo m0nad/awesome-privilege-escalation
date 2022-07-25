@@ -146,7 +146,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [DLL Hijacking](https://ired.team/offensive-security/privilege-escalation/t1038-dll-hijacking): DLL Search Order Hijacking for privilege escalation, code execution, etc. by Red Teaming Experiments
  - [DLL Hijacking](https://pentestlab.blog/2017/03/27/dll-hijacking/): by PentestLab
  - [DLL Search Order Hijacking](https://attack.mitre.org/techniques/T1038/): by MITRE
- - [PrivEsc: DLL Hijacking](https://gracefulsecurity.com/privesc-dll-hijacking/) 
+ - [PrivEsc: DLL Hijacking]([https://gracefulsecurity.com/privesc-dll-hijacking/](https://web.archive.org/web/20210805085547/https://gracefulsecurity.com/privesc-dll-hijacking/)): by GracefulSecurity
  - [Windows Privilege Escalation via DLL Hijacking](https://web.archive.org/web/20200215215536/https://hacknpentest.com/windows-privilege-escalation-dll-hijacking/): Crystal-clear view on one of the most used techniques for privilege escalation by the Threat Actors. by HacknPentest
 
 
