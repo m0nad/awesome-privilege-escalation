@@ -163,7 +163,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Practical Guide to exploiting the unquoted service path vulnerability in Windows](https://trustfoundry.net/practical-guide-to-exploiting-the-unquoted-service-path-vulnerability-in-windows/)
  - [PrivEsc: Unquoted Service Path](https://www.gracefulsecurity.com/privesc-unquoted-service-path/)
  - [Unquoted Service Path](https://pentestlab.blog/2017/03/09/unquoted-service-path/)
- - [UNQUOTED SERVICE PATHS](https://www.commonexploits.com/unquoted-service-paths/)
+ - [UNQUOTED SERVICE PATHS](https://web.archive.org/web/20210421085608/https://www.commonexploits.com/unquoted-service-paths/)
  - [Windows Privilege Escalation — Part 1 (Unquoted Service Path)](https://medium.com/@SumitVerma101/windows-privilege-escalation-part-1-unquoted-service-path-c7a011a8d8ae)
  - [Windows Privilege Escalation – Unquoted Services](https://web.archive.org/web/20210616195939/https://www.ethicalhacker.net/community/windows-privilege-escalation-unquoted-services/)
  - [Windows Privilege Escalation via Unquoted Service Paths](https://hausec.com/2018/10/05/windows-privilege-escalation-via-unquoted-service-paths/)
