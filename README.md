@@ -147,7 +147,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [DLL Hijacking](https://pentestlab.blog/2017/03/27/dll-hijacking/): by PentestLab
  - [DLL Search Order Hijacking](https://attack.mitre.org/techniques/T1038/): by MITRE
  - [PrivEsc: DLL Hijacking](https://gracefulsecurity.com/privesc-dll-hijacking/) 
- - [Windows Privilege Escalation via DLL Hijacking](https://hacknpentest.com/windows-privilege-escalation-dll-hijacking/): Crystal-clear view on one of the most used techniques for privilege escalation by the Threat Actors. by HacknPentest
+ - [Windows Privilege Escalation via DLL Hijacking](https://web.archive.org/web/20200215215536/https://hacknpentest.com/windows-privilege-escalation-dll-hijacking/): Crystal-clear view on one of the most used techniques for privilege escalation by the Threat Actors. by HacknPentest
 
 
 ### Potato
