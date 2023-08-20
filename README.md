@@ -17,6 +17,7 @@ A curated list of awesome privilege escalation
     * [Potato](#potato)
     * [Unquoted services with spaces](#unquoted-services-with-spaces)
     * [Groups.xml](#groupsxml)
+    * [NoFilter](#nofilter)
     * [Tools](#tools-1)
     * [Presentations](#presentations-1)
 * [Linux and Windows](#linux-and-windows)
@@ -176,11 +177,15 @@ is intended to be executed locally on a Linux box to enumerate basic system info
 ### PrintNightmare
  - [Universal Privilege Escalation and Persistence](https://pentestlab.blog/2021/08/02/universal-privilege-escalation-and-persistence-printer/): The Print Spooler is responsible to manage and process printer jobs. It runs as a service with SYSTEM level privileges on windows environments.
 
+### NoFilter
+ - [#NoFilter - Abusing Windows Filtering Platform for Privilege Escalation](https://www.deepinstinct.com/blog/nofilter-abusing-windows-filtering-platform-for-privilege-escalation): An evasive and undetected privilege escalation technique that abuses the Windows Filtering Platform (WFP).
+
 ### Tools
  - [ADAPE-Script](https://github.com/hausec/ADAPE-Script): Active Directory Assessment and Privilege Escalation Script by hausec
  - [GodPotato](https://github.com/BeichenDream/GodPotato): GodPotato enables privilege escalation in Windows 2012 - Windows 2022, now as long as you have "ImpersonatePrivilege" permission. 
  - [JAWS - Just Another Windows (Enum) Script](https://github.com/411Hall/JAWS): JAWS is PowerShell script designed to help penetration testers (and CTFers) quickly identify potential privilege escalation vectors on Windows systems. It is written using PowerShell 2.0 so 'should' run on every Windows version since Windows 7.
  - [juicy-potato](https://github.com/ohpe/juicy-potato): A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+ - [NoFilter](https://github.com/deepinstinct/NoFilter): Tool for abusing the Windows Filtering Platform for privilege escalation. It can launch a new console as "NT AUTHORITY\SYSTEM" or as another user that is logged on to the machine.
  - [Potato](https://github.com/foxglovesec/Potato): Potato Privilege Escalation on Windows 7, 8, 10, Server 2008, Server 2012.
  - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit): PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
  - [PrivescCheck](https://github.com/itm4n/PrivescCheck): Enumerate common Windows security misconfigurations which can be leveraged for privilege escalation and gather various information which might be useful for exploitation and/or post-exploitation, by itm4n.
