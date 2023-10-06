@@ -9,7 +9,6 @@ A curated list of awesome privilege escalation
     * [Capabilities](#capabilities)
     * [Tools](#tools)
         * [Find CVEs](#find-cves)
-    * [Chkrootkit](#chkrootkit)
     * [NFS](#nfs)
     * [Presentations](#presentations)
 * [Windows](#windows)
@@ -111,9 +110,6 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Arch-Audit](https://www.2daygeek.com/arch-audit-a-tool-to-check-vulnerable-packages-in-arch-linux/): A tool to check vulnerable packages in Arch Linux.
  - [cve-check-tool](https://github.com/clearlinux/cve-check-tool): Original Automated CVE Checking Tool.
  - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu.
-
-### Chkrootkit
- - [Local root exploit in Chkrootkit](https://lepetithacker.wordpress.com/2017/04/30/local-root-exploit-in-chkrootkit/): Security researchers have found an local exploit for Chkrootkit 0.49 who allow to a simple user to make root’s commands.
 
 ### NFS
  - [Exploiting a Mis-Configured NFS Share](https://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson4/index.html)
