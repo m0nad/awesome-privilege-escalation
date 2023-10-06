@@ -42,6 +42,7 @@ A curated list of awesome privilege escalation
  - [Linux Privilege Escalation](https://percussiveelbow.github.io/linux-privesc/): an introduction to Linux escalation techniques, mainly focusing on file/process permissions, but along with some other stuff too.
  - [Linux Privilege Escalation](https://github.com/lamontns/pentest/blob/master/privilege-escalation/linux-privilege-escalation.md): Linux Privilege Escalation by lamontns.
  - [Linux Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation): by HackTricks
+ - [Linux Privilege Escalation](https://reboare.gitbooks.io/booj-security/content/general-linux/privilege-escalation.html): by reboare.
  - [Local Priv Esc - Linux](https://notes.offsec-journey.com/privilege-escalation/linux-priv-esc): by Offsec Journey.
  - [PrivilageEsc Linux](https://docs.h4rithd.com/linux/privilageesc-linux): by h4rithd.
  - [Linux Privilege Escalation – Exploiting User Groups](https://steflan-security.com/linux-privilege-escalation-exploiting-user-groups/): by Steflan Security.
