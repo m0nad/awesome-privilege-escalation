@@ -131,6 +131,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Privilege escalation: Windows](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-windows)
  - [Windows elevation of privileges ToC](https://guif.re/windowseop)
  - [Windows Local Privilege Escalation](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation): by HackTricks
+ - [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook): Windows Local Privilege Escalation Cookbook by nickvourd.
  - [Windows Post Gather Modules](https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/): Metasploit offers a number of post exploitation modules that allow for further information gathering on your target network.
  - [Windows Priv Esc](https://www.sock-raw.org/wiki/doku.php/windows_priv_esc)
  - [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
