@@ -7,6 +7,7 @@ A curated list of awesome privilege escalation
     * [Escape restricted shells](#escape-restricted-shells)
     * [SUDO and SUID](#sudo-and-suid)
     * [Capabilities](#capabilities)
+    * [TTY Pushback / TIOCSTI injection](#tty-pushback--tiocsti-injection)
     * [Tools](#tools)
         * [Find CVEs](#find-cves)
     * [NFS](#nfs)
