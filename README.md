@@ -57,7 +57,6 @@ A curated list of awesome privilege escalation
  - [Privilege escalation: Linux](https://vulp3cula.gitbook.io/hackers-grimoire/post-exploitation/privesc-linux)
  - [Privilege Escalation & Post-Exploitation](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/PrivescPostEx.md)
  - [Reach the root! How to gain privileges in Linux?](https://hackmag.com/security/reach-the-root/)
- - [TTY Input Pushback Privilege Escalation](https://www.halfdog.net/Security/2012/TtyPushbackPrivilegeEscalation/): When user working as root switches to another user with su and happens to execute the pushback program as that user, the tty input data pushed back is executed in the shell and context of user root.
  - [Understanding Privilege Escalation](http://www.admin-magazine.com/Articles/Understanding-Privilege-Escalation): Some techniques malicious users employ to escalate their privileges on a Linux system.
 
 ### Escape restricted shells
@@ -80,6 +79,12 @@ A curated list of awesome privilege escalation
  - [Exploiting capabilities](http://blog.sevagas.com/IMG/pdf/exploiting_capabilities_the_dark_side.pdf): Parcel root power, the dark side of capabilities
  - [getcap, setcap and file capabilities](https://www.insecure.ws/linux/getcap_setcap.html)
  - [Spicing up your own access with capabilities](https://www.redpill-linpro.com/sysadvent/2016/12/06/spicing-up-your-access.html)
+
+### TTY Pushback / TIOCSTI injection
+ - [The oldest privesc: injecting careless administrators' terminals using TTY pushback](https://www.errno.fr/TTYPushback.html): By Guillaume Quéré
+ - [TIOCSTI injection](https://news.baycode.eu/0x05-tiocsti-injection/): Abusing TIOCSTI to manipulate process file descriptors and execute arbitrary commands. By Krystian Bajno
+ - [TIOCSTI is a kernel problem.](http://jdebp.info/FGA/TIOCSTI-is-a-kernel-problem.html): By Jonathan de Boyne Pollard.
+ - [TTY Input Pushback Privilege Escalation](https://www.halfdog.net/Security/2012/TtyPushbackPrivilegeEscalation/): When user working as root switches to another user with su and happens to execute the pushback program as that user, the tty input data pushed back is executed in the shell and context of user root.
 
 ### Tools
  - [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation): An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically.
