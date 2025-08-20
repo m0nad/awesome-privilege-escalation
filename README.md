@@ -109,6 +109,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
  - [SUDO_KILLER ](https://github.com/TH3xACE/SUDO_KILLER): A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems.
  - [traitor](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+ - [ttyinject](https://github.com/hackerschoice/ttyinject): Alice gets ROOT when ROOT does 'su alice'.
  - [unix-privesc-check](https://github.com/pentestmonkey/unix-privesc-check): Shell script to check for simple privilege escalation vectors on Unix systems
  - [Unix-Privilege-Escalation-Exploits-Pack](https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack): Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.
  - [uptux](https://github.com/initstring/uptux): Specialized privilege escalation checks for Linux systems.
