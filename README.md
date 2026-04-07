@@ -273,3 +273,4 @@ is intended to be executed locally on a Linux box to enumerate basic system info
 
 #### Tools
  - [GCPBucketBrute](https://github.com/RhinoSecurityLabs/GCPBucketBrute): A script to enumerate Google Storage buckets, determine what access you have to them, and determine if they can be privilege escalated. By RhinoSecurity.
+ - [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
