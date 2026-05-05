@@ -107,6 +107,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [linux-soft-exploit-suggester](https://github.com/belane/linux-soft-exploit-suggester): linux-soft-exploit-suggester finds exploits for all vulnerable software in a system helping with the privilege escalation.
  - [PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
  - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
+ - [Pentest Mindmap](https://pentestmindmap.com): Interactive mindmap with 11,600+ pentesting commands covering Linux privilege escalation, SUID/capabilities, kernel exploits, Active Directory, and more — ideal as a visual command reference during CTFs and real engagements.
  - [SUDO_KILLER ](https://github.com/TH3xACE/SUDO_KILLER): A tool designed to exploit a privilege escalation vulnerability in the sudo program on Unix-like systems.
  - [traitor](https://github.com/liamg/traitor): Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
  - [ttyinject](https://github.com/hackerschoice/ttyinject): Alice gets ROOT when ROOT does 'su alice'.
