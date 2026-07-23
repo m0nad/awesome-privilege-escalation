@@ -141,6 +141,7 @@ is intended to be executed locally on a Linux box to enumerate basic system info
  - [Windows elevation of privileges ToC](https://guif.re/windowseop)
  - [Windows Local Privilege Escalation](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation): by HackTricks
  - [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook): Windows Local Privilege Escalation Cookbook by nickvourd.
+ - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) : Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
  - [Windows Post Gather Modules](https://www.offensive-security.com/metasploit-unleashed/windows-post-gather-modules/): Metasploit offers a number of post exploitation modules that allow for further information gathering on your target network.
  - [Windows Priv Esc](https://www.sock-raw.org/wiki/doku.php/windows_priv_esc)
  - [Windows Privilege Escalation Fundamentals](https://www.fuzzysecurity.com/tutorials/16.html)
